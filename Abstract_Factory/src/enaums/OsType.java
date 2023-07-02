@@ -1,2 +1,6 @@
-package enaums;public class OsType {
+package enaums;
+
+public enum OsType {
+
+    ANDROID,IOS
 }
