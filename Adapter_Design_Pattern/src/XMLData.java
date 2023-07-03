@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class XMLData {
+public class XMLData {
+
+
+
+
+
 }

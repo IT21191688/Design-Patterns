@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface AppServer {
+public interface AppServer {
+
+
+    void displayData(XMLData xmlData);
+
+
 }
