@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class JapanAudi {
+public class JapanAudi extends Engine
+{
+    @Override
+    public void assemble() {
+
+        System.out.println("Japan Audi type"+type);
+        System.out.println("Japan Audi speed"+type);
+
+    }
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bridge_Design_Pattern.iml" filepath="$PROJECT_DIR$/Bridge_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge_New/Bridge_New.iml" filepath="$PROJECT_DIR$/Bridge_New/Bridge_New.iml" />
+    </modules>
+  </component>
+</project>
